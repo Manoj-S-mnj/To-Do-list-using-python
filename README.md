@@ -20,6 +20,7 @@ Welcome to **Learn\_code\_with\_me's To-Do List App** — a simple and interacti
 git clone https://github.com/your-username/todo-list-python.git
 cd todo-list-python
 ```
+Rename the file to : "todo_cli.py"
 
 2. Run the App
 Make sure Python is installed, then:
